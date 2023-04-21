@@ -12,6 +12,6 @@ public class Q1 {
 
             }
 
-        }System.out.println(students[0][0]);
+        }System.out.println(students[0][0]+" "+students[0][1]);
     }
 }
